@@ -63,15 +63,6 @@ Task1_Chatbot/
 1. Open a terminal or VS Code.  
 2. Run the following command:
    ```bash
-   
----
-
-## 🚀 How to Run
-
-### 🖥️ Console Version
-1. Open a terminal or VS Code.  
-2. Run the following command:
-   ```bash
    python chatbot_gui.py
-    ```
-   
+   ```
+
